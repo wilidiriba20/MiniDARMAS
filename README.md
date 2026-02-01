@@ -56,6 +56,11 @@ This project was developed for academic purposes to demonstrate:
 - Layered application architecture
 - Transaction handling
 - Software engineering principles
+## Screenshots
+# login
+<img width="1077" height="679" alt="Screenshot 2026-01-26 070217" src="https://github.com/user-attachments/assets/86f2570f-e48a-43ea-b69f-8eb12ce801fb" />
+
+
 
 ## Author
 - Name: Wili Diriba
