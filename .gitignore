@@ -1,0 +1,19 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
+
+# NuGet packages
+packages/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
