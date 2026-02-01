@@ -1,0 +1,13 @@
+# Visual Studio temp files
+.vs/
+*.user
+*.suo
+
+# Build folders
+bin/
+obj/
+
+# Others
+*.exe
+*.dll
+*.pdb
