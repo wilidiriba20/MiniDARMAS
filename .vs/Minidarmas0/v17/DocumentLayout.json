@@ -1,0 +1,665 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\Minidarmas0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\hp\\Desktop\\Minidarmas0\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\ui\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\ui\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\ui\\transcriberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\ui\\transcriberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\ui\\transcriberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\ui\\transcriberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\ui\\operatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\ui\\operatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\ui\\operatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\ui\\operatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\data\\assignmentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\data\\assignmentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\logic\\assignmentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\logic\\assignmentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Minidarmas/True/SqlTable/dbo.Assignments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Minidarmas/True/SqlTable/dbo.Transcriptions.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\AppData\\Local\\Temp\\0snctskk..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\data\\recordingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\data\\recordingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\AppData\\Local\\Temp\\ddkuq2aq..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\ui\\operatorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\ui\\operatorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\ui\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\ui\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\ui\\approverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\ui\\approverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\ui\\approverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\ui\\approverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\data\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\data\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\logic\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\logic\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\ui\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\ui\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\ui\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\ui\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\ui\\editorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\ui\\editorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\AppData\\Local\\Temp\\1zgpk10u..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Minidarmas/True/SqlTable/dbo.Meetings.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\ui\\editorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\ui\\editorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\ui\\approverform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\ui\\approverform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\AppData\\Local\\Temp\\x4cj0d4m..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\ui\\transcriberform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\ui\\transcriberform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\AppData\\Local\\Temp\\fude42in..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\ui\\loginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\ui\\loginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\ui\\editorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\ui\\editorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\models\\transcription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\models\\transcription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\models\\recording.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\models\\recording.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\models\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\models\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|C:\\Users\\hp\\Desktop\\Minidarmas0\\minidarmas0\\models\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4A66AC-C22A-4C71-8255-C9BF261C85EA}|Minidarmas0\\Minidarmas0.csproj|solutionrelative:minidarmas0\\models\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\Minidarmas0\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\AppData\\Local\\Temp\\u25ierh5..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Minidarmas/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwD0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-02-01T17:02:04.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TranscriberForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\TranscriberForm.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\UI\\TranscriberForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\TranscriberForm.cs",
+              "RelativeToolTip": "Minidarmas0\\UI\\TranscriberForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T18:39:08.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TranscriberForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\TranscriberForm.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\UI\\TranscriberForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\TranscriberForm.cs [Design]",
+              "RelativeToolTip": "Minidarmas0\\UI\\TranscriberForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T18:37:57.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\AdminForm.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\UI\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\AdminForm.cs [Design]",
+              "RelativeToolTip": "Minidarmas0\\UI\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T17:34:04.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OperatorForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\OperatorForm.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\UI\\OperatorForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\OperatorForm.cs",
+              "RelativeToolTip": "Minidarmas0\\UI\\OperatorForm.cs",
+              "ViewState": "AgIAAKwBAAAAAAAAAAASwLEBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T01:51:20.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OperatorForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\OperatorForm.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\UI\\OperatorForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\OperatorForm.cs [Design]",
+              "RelativeToolTip": "Minidarmas0\\UI\\OperatorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T03:49:59.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssignmentBLL.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\Logic\\AssignmentBLL.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\Logic\\AssignmentBLL.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\Logic\\AssignmentBLL.cs",
+              "RelativeToolTip": "Minidarmas0\\Logic\\AssignmentBLL.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAArwCgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T01:43:01.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssignmentDAL.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\Data\\AssignmentDAL.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\Data\\AssignmentDAL.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\Data\\AssignmentDAL.cs",
+              "RelativeToolTip": "Minidarmas0\\Data\\AssignmentDAL.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAADgv2MAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T18:42:37.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Assignments.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Minidarmas/True/SqlTable/dbo.Assignments.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Minidarmas/True/SqlTable/dbo.Assignments.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-27T23:27:37.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.Transcriptions.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Minidarmas/True/SqlTable/dbo.Transcriptions.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Minidarmas/True/SqlTable/dbo.Transcriptions.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-27T23:26:56.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "0snctskk..sql",
+              "DocumentMoniker": "C:\\Users\\hp\\AppData\\Local\\Temp\\0snctskk..sql",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\0snctskk..sql",
+              "ToolTip": "C:\\Users\\hp\\AppData\\Local\\Temp\\0snctskk..sql",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\0snctskk..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-27T23:25:39.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RecordingDAL.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\Data\\RecordingDAL.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\Data\\RecordingDAL.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\Data\\RecordingDAL.cs",
+              "RelativeToolTip": "Minidarmas0\\Data\\RecordingDAL.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T01:42:20.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ddkuq2aq..sql",
+              "DocumentMoniker": "C:\\Users\\hp\\AppData\\Local\\Temp\\ddkuq2aq..sql",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\ddkuq2aq..sql",
+              "ToolTip": "C:\\Users\\hp\\AppData\\Local\\Temp\\ddkuq2aq..sql",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\ddkuq2aq..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-27T21:23:31.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OperatorForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\OperatorForm.Designer.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\UI\\OperatorForm.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\OperatorForm.Designer.cs",
+              "RelativeToolTip": "Minidarmas0\\UI\\OperatorForm.Designer.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAtwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T01:51:04.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\UI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Minidarmas0\\UI\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T17:26:20.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserDAL.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\Data\\UserDAL.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\Data\\UserDAL.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\Data\\UserDAL.cs",
+              "RelativeToolTip": "Minidarmas0\\Data\\UserDAL.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAIAwwA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T16:57:24.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\UI\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\LoginForm.Designer.cs",
+              "RelativeToolTip": "Minidarmas0\\UI\\LoginForm.Designer.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAApwMAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T01:50:10.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApproverForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\ApproverForm.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\UI\\ApproverForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\ApproverForm.cs",
+              "RelativeToolTip": "Minidarmas0\\UI\\ApproverForm.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADgvxQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T01:49:13.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApproverForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\ApproverForm.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\UI\\ApproverForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\ApproverForm.cs [Design]",
+              "RelativeToolTip": "Minidarmas0\\UI\\ApproverForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T08:35:39.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\UI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\LoginForm.cs",
+              "RelativeToolTip": "Minidarmas0\\UI\\LoginForm.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAowHIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T17:26:30.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserBLL.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\Logic\\UserBLL.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\Logic\\UserBLL.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\Logic\\UserBLL.cs",
+              "RelativeToolTip": "Minidarmas0\\Logic\\UserBLL.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAawA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T16:56:52.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\AdminForm.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\UI\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\AdminForm.cs",
+              "RelativeToolTip": "Minidarmas0\\UI\\AdminForm.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAgwOcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T17:34:23.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\AdminForm.Designer.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\UI\\AdminForm.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\AdminForm.Designer.cs",
+              "RelativeToolTip": "Minidarmas0\\UI\\AdminForm.Designer.cs",
+              "ViewState": "AgIAAAwBAAAAAAAAAAD4v/gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T01:45:50.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\Models\\Users.cs",
+              "RelativeToolTip": "Minidarmas0\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T01:45:07.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EditorForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\EditorForm.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\UI\\EditorForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\EditorForm.cs [Design]",
+              "RelativeToolTip": "Minidarmas0\\UI\\EditorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:38:18.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "1zgpk10u..sql",
+              "DocumentMoniker": "C:\\Users\\hp\\AppData\\Local\\Temp\\1zgpk10u..sql",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\1zgpk10u..sql",
+              "ToolTip": "C:\\Users\\hp\\AppData\\Local\\Temp\\1zgpk10u..sql",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\1zgpk10u..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-26T16:14:48.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "dbo.Meetings.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Minidarmas/True/SqlTable/dbo.Meetings.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Minidarmas/True/SqlTable/dbo.Meetings.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-26T16:15:24.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApproverForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\ApproverForm.Designer.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\UI\\ApproverForm.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\ApproverForm.Designer.cs",
+              "RelativeToolTip": "Minidarmas0\\UI\\ApproverForm.Designer.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAYwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T01:48:16.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EditorForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\EditorForm.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\UI\\EditorForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\EditorForm.cs",
+              "RelativeToolTip": "Minidarmas0\\UI\\EditorForm.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAIwHoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T01:49:51.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "x4cj0d4m..sql",
+              "DocumentMoniker": "C:\\Users\\hp\\AppData\\Local\\Temp\\x4cj0d4m..sql",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\x4cj0d4m..sql",
+              "ToolTip": "C:\\Users\\hp\\AppData\\Local\\Temp\\x4cj0d4m..sql",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\x4cj0d4m..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-26T15:18:55.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TranscriberForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\TranscriberForm.Designer.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\UI\\TranscriberForm.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\TranscriberForm.Designer.cs",
+              "RelativeToolTip": "Minidarmas0\\UI\\TranscriberForm.Designer.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAuwMAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T01:51:35.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "fude42in..sql",
+              "DocumentMoniker": "C:\\Users\\hp\\AppData\\Local\\Temp\\fude42in..sql",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\fude42in..sql",
+              "ToolTip": "C:\\Users\\hp\\AppData\\Local\\Temp\\fude42in..sql",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\fude42in..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-26T08:55:50.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LoginForm.resx",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\LoginForm.resx",
+              "RelativeDocumentMoniker": "Minidarmas0\\UI\\LoginForm.resx",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\LoginForm.resx",
+              "RelativeToolTip": "Minidarmas0\\UI\\LoginForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-26T01:50:35.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EditorForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\EditorForm.Designer.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\UI\\EditorForm.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\UI\\EditorForm.Designer.cs",
+              "RelativeToolTip": "Minidarmas0\\UI\\EditorForm.Designer.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAswIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T01:49:27.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\Models\\Assignment.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\Models\\Assignment.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\Models\\Assignment.cs",
+              "RelativeToolTip": "Minidarmas0\\Models\\Assignment.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T16:54:14.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Meeting.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\Models\\Meeting.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\Models\\Meeting.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\Models\\Meeting.cs",
+              "RelativeToolTip": "Minidarmas0\\Models\\Meeting.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T16:51:39.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Recording.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\Models\\Recording.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\Models\\Recording.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\Models\\Recording.cs",
+              "RelativeToolTip": "Minidarmas0\\Models\\Recording.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T16:53:24.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Agenda.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\Models\\Agenda.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\Models\\Agenda.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\Models\\Agenda.cs",
+              "RelativeToolTip": "Minidarmas0\\Models\\Agenda.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T16:52:42.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Transcription.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\Models\\Transcription.cs",
+              "RelativeDocumentMoniker": "Minidarmas0\\Models\\Transcription.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\Minidarmas0\\Models\\Transcription.cs",
+              "RelativeToolTip": "Minidarmas0\\Models\\Transcription.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T16:54:48.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "u25ierh5..sql",
+              "DocumentMoniker": "C:\\Users\\hp\\AppData\\Local\\Temp\\u25ierh5..sql",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\u25ierh5..sql",
+              "ToolTip": "C:\\Users\\hp\\AppData\\Local\\Temp\\u25ierh5..sql",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\u25ierh5..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-25T18:17:39.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Minidarmas0\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Minidarmas0\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-25T18:15:27.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Minidarmas/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Minidarmas/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-25T17:01:03.823Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
