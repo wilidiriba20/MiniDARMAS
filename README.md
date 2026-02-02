@@ -62,13 +62,17 @@ This project was developed for academic purposes to demonstrate:
 
 ## admin
 <img width="2534" height="1169" alt="Screenshot 2026-01-26 101753" src="https://github.com/user-attachments/assets/c829f00e-f71f-4e6a-900b-43d570f33572" />
+
 ## oprator
 <img width="2533" height="1353" alt="Screenshot 2026-01-26 102528" src="https://github.com/user-attachments/assets/baa6100d-6e9f-4ab6-b2fc-9e3e86109ac8" />
+
 ## transcriber
 <img width="2536" height="1269" alt="Screenshot 2026-01-26 111227" src="https://github.com/user-attachments/assets/8c6ee3e9-5412-424e-bd43-cc1b0e063176" />
+
 ## editor
 <img width="2559" height="1303" alt="Screenshot 2026-01-26 111814" src="https://github.com/user-attachments/assets/92f1b71e-dd8b-4146-9d77-f92dca19d4ad" />
-## aorover
+
+## aprover
 <img width="2557" height="1282" alt="Screenshot 2026-01-26 112224" src="https://github.com/user-attachments/assets/26b75403-3e0e-4f65-a3f5-8c9cc3ce1581" />
 
 
